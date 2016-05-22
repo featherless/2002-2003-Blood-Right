@@ -19,6 +19,7 @@ The game went through many game engine iterations, starting with a 2d engine and
 custom 3d engine.
 
 ![2d engine](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/2dengine.gif)
+![3d engine](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/3dengine.gif)
 
 ## Concepts
 
