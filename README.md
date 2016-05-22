@@ -15,6 +15,22 @@ https://soundcloud.com/featherless-digital-creative-history/sets/2002-blood-righ
 
 ## Concepts
 
+### Mountain quest idea
+
+    the mountains are devided into two regions
+    upper and lower
+    the lower half of the mountains is considered to be normal, because they are like the majority of the people in the world, like us
+    but the lower half of the mountain is on offensive about the upper half of  the mountains, since it is colder up there
+    and that is where my description of the snow mountain people come in
+    the lower half of the mountain considers them freaks
+    and wants them off the mountain
+    but the upper half of the mountain is peacefull, and just wishes to stay out of the way
+    so what you have to do is make them work together to do something
+    and gradually get along better
+    untill they are at peace
+    then of course they give you something
+
+
 ![Concept](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/concepts/battleengine.jpg)
 ![Concept](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/concepts/battlesystem2.jpg)
 ![Concept](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/concepts/charactertile.jpg)
