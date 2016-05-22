@@ -20,6 +20,7 @@ custom 3d engine. The switch to the 3d engine ended up consuming so much time th
 
 ![2d engine](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/2dengine.gif)
 ![3d engine](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/3dengine.gif)
+![3d engine v2](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/3denginev2.gif)
 
 ## Intro video
 
