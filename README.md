@@ -13,6 +13,13 @@ The soundtrack is available on Soundcloud:
 
 https://soundcloud.com/featherless-digital-creative-history/sets/2002-blood-right
 
+## Engines
+
+The game went through many game engine iterations, starting with a 2d engine and eventually moving to a very basic
+custom 3d engine.
+
+![2d engine](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/2dengine.gif)
+
 ## Concepts
 
 ### Mountain quest idea
@@ -29,7 +36,6 @@ https://soundcloud.com/featherless-digital-creative-history/sets/2002-blood-righ
     and gradually get along better
     untill they are at peace
     then of course they give you something
-
 
 ![Concept](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/concepts/battleengine.jpg)
 ![Concept](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/concepts/battlesystem2.jpg)
