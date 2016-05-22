@@ -23,7 +23,9 @@ custom 3d engine. The switch to the 3d engine ended up consuming so much time th
 
 ## Intro video
 
-https://www.youtube.com/watch?v=VV97JgeQX-I
+![video](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/render.gif)
+
+[View the video with music](https://www.youtube.com/watch?v=VV97JgeQX-I)
 
 ## Concepts
 
