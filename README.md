@@ -18,9 +18,47 @@ https://soundcloud.com/featherless-digital-creative-history/sets/2002-blood-righ
 The game went through many game engine iterations, starting with a 2d engine and eventually moving to a very basic
 custom 3d engine. The switch to the 3d engine ended up consuming so much time that the project stalled indefinitely.
 
+### 2D engine
+
 ![2d engine](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/2dengine.gif)
+
+### 3D engine
+
 ![3d engine](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/3dengine.gif)
+
+### 3D BSP engine
+
 ![3d engine v2](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/3denginev2.gif)
+
+Originally posted on TheJeffFiles.com regarding the 3d BSP engine:
+
+> Creators: Jeff Verkoeyen (Programmer)
+> 
+> Production Time: March, 2004, through May, 2004
+> 
+> Genre: First-Person
+> 
+> **Gameplay**: This BSP engine was designed for what would have eventually become BloodRight3D, but ended up being more of a learning project for me than anything. Included with the engine is a solid particle engine and a first person BSP engine.
+>
+> The program starts in Particle Engine mode. To change to BSP mode, hit F1. To change back to Particle Engine mode, hit F2.
+>
+> In Particle Engine mode the controls are as follows:
+>
+> - WASD: Move the camera in space
+> - Mouse: Change camera direction
+> - Space: Bullet Time
+> - F1: Change to BSP mode
+> - IJKL: Move the water fountain particle system
+> - Arrow Keys: Move the smoke particle system
+> 
+> In BSP mode the controls are as follows:
+>
+> - WASD: Move the camera
+> - Mouse: Change camera direction
+> - Space: Jump
+> - Collide with doors to open them, stand on elevators to go up them
+> 
+> Notes: This is merely an engine, but could possibly be worked in to a game.
 
 ## Intro video
 
